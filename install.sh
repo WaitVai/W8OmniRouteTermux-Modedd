@@ -226,7 +226,7 @@ PATCHEOF
 if [ -n "$PREFIX" ] && [ -d "$PREFIX/bin" ]; then
   cat > "$PREFIX/bin/omniroute-update" << 'EOF'
 #!/bin/bash
-curl -fsSL "https://raw.githubusercontent.com/W8SOJIB/W8OmniRouteTermux-Modedd/main/update.sh" | bash -s -- "$@"
+curl -fsSL "https://raw.githubusercontent.com/WaitVai/W8OmniRouteTermux-Modedd-main/main/update.sh" | bash -s -- "$@"
 EOF
   chmod +x "$PREFIX/bin/omniroute-update" 2>/dev/null || true
   echo "      Installed update tool: omniroute-update"

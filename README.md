@@ -2,7 +2,7 @@
 
 ### 📱 Termux (Android) Quick Install & Auto-Update:
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/W8SOJIB/W8OmniRouteTermux-Modedd/main/install.sh" | bash
+curl -fsSL "https://raw.githubusercontent.com/WaitVai/W8OmniRouteTermux-Modedd-main/main/install.sh" | bash
 ```
 > 💡 **Tip:** To update on Termux anytime, run `omniroute-update` or use the 1-click **Update** button in the Web Dashboard.
 
@@ -947,7 +947,7 @@ Auto-trigger by token threshold, flip on the adaptive dial, pin a named profile,
 
 - **Termux (Android) Quick Install & Auto-Update:**
   ```bash
-  curl -fsSL "https://raw.githubusercontent.com/W8SOJIB/W8OmniRouteTermux-Modedd/main/install.sh" | bash
+  curl -fsSL "https://raw.githubusercontent.com/WaitVai/W8OmniRouteTermux-Modedd-main/main/install.sh" | bash
   ```
   *To update on Termux anytime, run `omniroute-update` or use the 1-click Update button in the Web Dashboard.*
 
